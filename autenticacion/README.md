@@ -18,12 +18,12 @@
     pip install django
     ```
 
-4. Crea un nuevo proyecto Django llamado `auth_service`:
+4. Crea un nuevo proyecto Django llamado `auth_service` si ya esta creado no siga este paso:
     ```bash
     django-admin startproject auth_service
     ```
 
-5. Crea una nueva aplicación llamada `authentication`:
+5. Crea una nueva aplicación llamada `authentication` si ya esta creado no siga este paso:
     ```bash
     python manage.py startapp authentication
     ```
